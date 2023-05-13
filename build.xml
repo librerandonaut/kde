@@ -13,8 +13,8 @@
   <target name="include-source" depends="source-own-jar" />
   
   <property name="domain.name"    value="bits" />
-  <property name="jvm.source"     value="1.6" />
-  <property name="jvm.target"     value="1.6" />
+  <property name="jvm.source"     value="1.7" />
+  <property name="jvm.target"     value="1.7" />
   <property name="dst.dir"        value="target" />
   <property name="dst.name"       value="${domain.name}_${ant.project.name}" />
   <property name="src.dir"        value="src/main/java" />
